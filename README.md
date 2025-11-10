@@ -1,11 +1,11 @@
 <!-- 🌌 ANIMATED HEADER -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ahsan+Imam+Khan+👋;Full+Stack+Developer+from+India+🇮🇳;Learning%2C+Building%2C+and+Growing+Every+Day;Exploring+Cloud%2C+Kubernetes+and+Modern+Tech)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Ahsan+Imam+Khan+👋;Full+Stack+Developer+from+India+🇮🇳;Learning%2C+Building%2C+and+Growing+Every+Day;Exploring+Cloud%2C+Kubernetes%2C+and+Modern+Tech)
 
 ---
 
-### <span style="color:#FFD700;">Full-Stack Developer | Tech Explorer | Always Learning</span>  
+### 💻 <span style="color:#FFD700;">Full-Stack Developer | Tech Explorer | Always Learning</span>  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00B300?style=for-the-badge&logo=firefox&logoColor=white)](https://mitians.shop/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-imam-khan-9a0443328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
@@ -21,9 +21,9 @@
 ## 👨‍💻 About Me  
 
 Hey, I’m **Ahsan Imam Khan**, a developer from 🇮🇳 **India**, who’s passionate about turning ideas into impactful digital solutions.  
-I’m not an expert yet — I’m a **learner** who loves experimenting, improving, and discovering new ways to build smarter applications.  
-Right now, I’m focusing on mastering **Full Stack Development** and exploring **Cloud & DevOps tools**.  
-Every project I create teaches me something new — and that’s what keeps me going.  
+I’m not an expert yet — I’m a **learner** who enjoys experimenting, improving, and discovering new ways to build smarter applications.  
+Currently, I’m focused on **Full Stack Development**, **Cloud**, and **DevOps tools**.  
+Every project I work on teaches me something new — and that’s what keeps me motivated.  
 
 🎓 Computer Science Student  
 💡 Focused on Web Apps, APIs, and Cloud Integration  
@@ -35,13 +35,13 @@ Every project I create teaches me something new — and that’s what keeps me g
 
 <div align="center">
 
-##  Currently Working On & Learning  
+## 🚀 Currently Working On & Learning  
 
-Learning **Kubernetes**, **AWS**, and how to manage real-world cloud deployments.  
-Working on small **Full Stack projects** to build backend and database skills.  
-Exploring **Docker**, **CI/CD automation**, and development workflows.  
-Understanding **system design and architecture** for scalable apps.  
-Constantly improving code structure, logic, and problem-solving.
+Learning **Kubernetes**, **AWS**, and real-world cloud deployment workflows.  
+Working on small **Full Stack projects** to strengthen backend and database skills.  
+Exploring **Docker**, **CI/CD pipelines**, and **automation tools**.  
+Understanding **system design and architecture** for scalable applications.  
+Constantly improving code quality, logic, and problem-solving skills.  
 
 </div>
 
@@ -51,7 +51,7 @@ Constantly improving code structure, logic, and problem-solving.
 
 ## ⚙️ My Tech Stack  
 
-I love experimenting with technologies that make apps faster, cleaner, and smarter.  
+I enjoy using tools that make apps faster, cleaner, and smarter.  
 
 | Frontend | Backend | Databases | Cloud & DevOps | Tools & OS |
 |-----------|----------|------------|----------------|-------------|
