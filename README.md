@@ -21,13 +21,13 @@
 ## 👨‍💻 About Me  
 
 Hey, I’m **Ahsan Imam Khan**, a developer from 🇮🇳 **India**, who’s passionate about turning ideas into impactful digital solutions.  
-I’m not an expert — I’m a **learner** who loves experimenting, improving, and discovering new ways to build smarter applications.  
+I’m not an expert yet — I’m a **learner** who loves experimenting, improving, and discovering new ways to build smarter applications.  
 Right now, I’m focusing on mastering **Full Stack Development** and exploring **Cloud & DevOps tools**.  
 Every project I create teaches me something new — and that’s what keeps me going.  
 
 🎓 Computer Science Student  
-💡 Interested in Web Apps, APIs, and Cloud Integration  
-🧠 Always learning. Always building.  
+💡 Focused on Web Apps, APIs, and Cloud Integration  
+🧠 Mindset: Always Learning | Always Building  
 
 </div>
 
@@ -35,13 +35,13 @@ Every project I create teaches me something new — and that’s what keeps me g
 
 <div align="center">
 
-## 🚀 Currently Working On & Learning  
+##  Currently Working On & Learning  
 
-Learning **Kubernetes**, **AWS**, and the fundamentals of **Cloud Deployment**.  
-Building small full stack projects to improve backend and database understanding.  
-Exploring **Docker**, **CI/CD pipelines**, and automation tools.  
-Understanding how to design and scale real-world systems.  
-Constantly refining code quality and problem-solving skills.  
+Learning **Kubernetes**, **AWS**, and how to manage real-world cloud deployments.  
+Working on small **Full Stack projects** to build backend and database skills.  
+Exploring **Docker**, **CI/CD automation**, and development workflows.  
+Understanding **system design and architecture** for scalable apps.  
+Constantly improving code structure, logic, and problem-solving.
 
 </div>
 
@@ -51,11 +51,10 @@ Constantly refining code quality and problem-solving skills.
 
 ## ⚙️ My Tech Stack  
 
-I enjoy working with tools that help me create fast, modern, and reliable applications.  
-Here’s what I use and explore daily 👇  
+I love experimenting with technologies that make apps faster, cleaner, and smarter.  
 
-| Frontend | Backend | Databases | Cloud & DevOps | Others |
-|-----------|----------|------------|----------------|---------|
+| Frontend | Backend | Databases | Cloud & DevOps | Tools & OS |
+|-----------|----------|------------|----------------|-------------|
 | ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FFD700) ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00BFFF) ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFD700) | ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=00BFFF) ![Express](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=FFD700) ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00BFFF) | ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FFD700) ![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=00BFFF) ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=FFD700) | ![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=FFD700) ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=00BFFF) ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00BFFF) | ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FFD700) ![VS Code](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=00BFFF) ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FFD700) |
 
 </div>
@@ -75,11 +74,9 @@ Here’s what I use and explore daily 👇
 
 <div align="center">
 
-## ⚡ Streak & Contributions  
+## 🟩 Contribution Graph  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ahsan6786&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=FFD700&currStreakLabel=FFD700)](https://git.io/streak-stats)
-
-![Ahsan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahsan6786&bg_color=0D1117&color=00BFFF&line=FFD700&point=ffffff&hide_border=true&area=true&area_color=001F3F)
+![Ahsan's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahsan6786&bg_color=0D1117&color=00BFFF&line=FFD700&point=ffffff&hide_border=true&area=true&area_color=001F3F)
 
 </div>
 
