@@ -1,7 +1,7 @@
 <!-- 🌌 ANIMATED HEADER -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Ahsan+Imam+Khan+👋;Full+Stack+Developer+from+India+🇮🇳;Building+and+Learning+Every+Single+Day;Exploring+Cloud%2C+Kubernetes+and+Modern+Tech)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ahsan+Imam+Khan+👋;Full+Stack+Developer+from+India+🇮🇳;Learning%2C+Building%2C+and+Growing+Every+Day;Exploring+Cloud%2C+Kubernetes+and+Modern+Tech)
 
 ---
 
@@ -20,14 +20,14 @@
 
 ## 👨‍💻 About Me  
 
-Hey, I’m **Ahsan Imam Khan** — a passionate developer from 🇮🇳 **India**, learning to build better every day.  
-I love exploring how ideas can turn into useful digital experiences.  
-Right now, I’m sharpening my skills in **Full Stack Development** and **Cloud Technologies** ☁️.  
-My goal is simple: **learn, build, and keep improving** — one project at a time.
+Hey, I’m **Ahsan Imam Khan**, a developer from 🇮🇳 **India**, who’s passionate about turning ideas into impactful digital solutions.  
+I’m not an expert — I’m a **learner** who loves experimenting, improving, and discovering new ways to build smarter applications.  
+Right now, I’m focusing on mastering **Full Stack Development** and exploring **Cloud & DevOps tools**.  
+Every project I create teaches me something new — and that’s what keeps me going.  
 
-🎓 **Computer Science Student**  
-💡 **Focus Areas:** Web Apps, APIs, and Cloud Integration  
-🧠 **Mindset:** Always Learning | Always Building  
+🎓 Computer Science Student  
+💡 Interested in Web Apps, APIs, and Cloud Integration  
+🧠 Always learning. Always building.  
 
 </div>
 
@@ -37,11 +37,11 @@ My goal is simple: **learn, build, and keep improving** — one project at a tim
 
 ## 🚀 Currently Working On & Learning  
 
-- 🌐 Learning **Kubernetes**, **AWS**, and **Cloud Deployment**  
-- 💻 Building small **Full Stack projects** to strengthen backend & database skills  
-- 🧰 Exploring **Docker**, **CI/CD**, and **automation tools**  
-- ⚙️ Understanding **system design & scalable architectures**  
-- 🧩 Improving code structure and problem-solving daily  
+Learning **Kubernetes**, **AWS**, and the fundamentals of **Cloud Deployment**.  
+Building small full stack projects to improve backend and database understanding.  
+Exploring **Docker**, **CI/CD pipelines**, and automation tools.  
+Understanding how to design and scale real-world systems.  
+Constantly refining code quality and problem-solving skills.  
 
 </div>
 
@@ -49,19 +49,14 @@ My goal is simple: **learn, build, and keep improving** — one project at a tim
 
 <div align="center">
 
-## 🧠 Tech Stack  
+## ⚙️ My Tech Stack  
 
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FFD700)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00BFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFD700)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00BFFF)
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=FFD700)
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00BFFF)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FFD700)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=00BFFF)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=FFD700)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=00BFFF)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00BFFF)
+I enjoy working with tools that help me create fast, modern, and reliable applications.  
+Here’s what I use and explore daily 👇  
+
+| Frontend | Backend | Databases | Cloud & DevOps | Others |
+|-----------|----------|------------|----------------|---------|
+| ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FFD700) ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00BFFF) ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFD700) | ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=00BFFF) ![Express](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=FFD700) ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00BFFF) | ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FFD700) ![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=00BFFF) ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=FFD700) | ![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=FFD700) ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=00BFFF) ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00BFFF) | ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FFD700) ![VS Code](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=00BFFF) ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FFD700) |
 
 </div>
 
@@ -102,25 +97,11 @@ My goal is simple: **learn, build, and keep improving** — one project at a tim
 
 <div align="center">
 
-## 📈 Developer Metrics  
+## 🌱 My Vision  
 
-![Contributions](https://github-contributor-stats.vercel.app/api?username=Ahsan6786&limit=10&theme=tokyonight&combine_all_yearly_contributions=true)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahsan6786&theme=tokyonight)
-![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahsan6786&theme=tokyonight)
-![Commit Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahsan6786&theme=tokyonight&utcOffset=5.5)
-
-</div>
-
----
-
-<div align="center">
-
-## 🌍 My Vision  
-
-🚀 Keep learning & improving every single day  
-🌱 Build projects that help people  
-☁️ Grow into Cloud + DevOps space  
-💬 Connect with developers & share knowledge  
+Keep learning, keep building, and never stop experimenting.  
+I’m not chasing perfection — I’m chasing **progress**.  
+Every line of code, every project, every bug fixed adds up to something bigger.  
 
 </div>
 
