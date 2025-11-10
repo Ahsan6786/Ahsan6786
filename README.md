@@ -5,7 +5,7 @@
 
 ---
 
-### 💻 <span style="color:#FFD700;">Full-Stack Developer | Tech Explorer | Always Learning</span>  
+### <span style="color:#FFD700;">Full-Stack Developer | Tech Explorer | Always Learning</span>  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00B300?style=for-the-badge&logo=firefox&logoColor=white)](https://mitians.shop/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-imam-khan-9a0443328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
