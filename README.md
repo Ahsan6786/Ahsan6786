@@ -7,10 +7,21 @@
 
 ### 💻 <span style="color:#FFD700;">Full-Stack Developer | Tech Explorer | Always Learning</span>  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00B300?style=for-the-badge&logo=firefox&logoColor=white)](https://mitians.shop/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-imam-khan-9a0443328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khan_ahsan_8055?igsh=MWhpYnJ1OGo2Y214ZA%3D%3D&utm_source=qr)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanimamkhan06@gmail.com)
+<!-- Rounded Social Buttons -->
+<p align="center">
+  <a href="https://mitians.shop/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00B300?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0D1117&color=00B300&border_radius=50" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ahsan-imam-khan-9a0443328" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=0A66C2&border_radius=50" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/khan_ahsan_8055" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117&color=E4405F&border_radius=50" alt="Instagram"/>
+  </a>
+  <a href="mailto:ahsanimamkhan06@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=0078D4&border_radius=50" alt="Email"/>
+  </a>
+</p>
 
 </div>
 
