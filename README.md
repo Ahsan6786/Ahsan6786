@@ -1,4 +1,4 @@
-<!-- 🌌 ANIMATED HEADER -->
+
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Ahsan+Imam+Khan+👋;Full+Stack+Developer+from+India+🇮🇳;Learning%2C+Building%2C+and+Growing+Every+Day;Exploring+Cloud%2C+Kubernetes%2C+and+Modern+Tech)
@@ -7,7 +7,7 @@
 
 ### 💻 <span style="color:#FFD700;">Full-Stack Developer | Tech Explorer | Always Learning</span>  
 
-<!-- Glowing Rounded Buttons -->
+
 <p align="center">
   <a href="https://mitians.shop/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Portfolio-00D26A?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1A1A1A&color=00D26A&cacheSeconds=3600" 
