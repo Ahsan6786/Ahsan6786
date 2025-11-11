@@ -7,19 +7,23 @@
 
 ### 💻 <span style="color:#FFD700;">Full-Stack Developer | Tech Explorer | Always Learning</span>  
 
-<!-- Rounded Social Buttons -->
+<!-- Glowing Rounded Buttons -->
 <p align="center">
-  <a href="https://mitians.shop/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00B300?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0D1117&color=00B300&border_radius=50" alt="Portfolio"/>
+  <a href="https://mitians.shop/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-00D26A?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1A1A1A&color=00D26A&cacheSeconds=3600" 
+         alt="Portfolio" style="border-radius:50px; box-shadow: 0 0 15px #00D26A;">
   </a>
-  <a href="https://www.linkedin.com/in/ahsan-imam-khan-9a0443328" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=0A66C2&border_radius=50" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/ahsan-imam-khan-9a0443328" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A1A&color=0077B5&cacheSeconds=3600" 
+         alt="LinkedIn" style="border-radius:50px; box-shadow: 0 0 15px #0077B5;">
   </a>
-  <a href="https://www.instagram.com/khan_ahsan_8055" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117&color=E4405F&border_radius=50" alt="Instagram"/>
+  <a href="https://www.instagram.com/khan_ahsan_8055" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1A1A1A&color=DD2A7B&cacheSeconds=3600" 
+         alt="Instagram" style="border-radius:50px; box-shadow: 0 0 15px #DD2A7B;">
   </a>
-  <a href="mailto:ahsanimamkhan06@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=0078D4&border_radius=50" alt="Email"/>
+  <a href="mailto:ahsanimamkhan06@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A&color=0078D4&cacheSeconds=3600" 
+         alt="Email" style="border-radius:50px; box-shadow: 0 0 15px #0078D4;">
   </a>
 </p>
 
