@@ -1,128 +1,187 @@
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Ahsan+Imam+Khan+👋;Full+Stack+Developer+from+India+🇮🇳;Learning%2C+Building%2C+and+Growing+Every+Day;Exploring+Cloud%2C+Kubernetes%2C+and+Modern+Tech)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,25:111111,50:FFD700,75:FFB800,100:000000&text=AHSAN%20IMAM%20KHAN&fontColor=ffffff&fontSize=58&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Future%20Architect&descAlignY=58"/>
 
----
+<br>
 
-### 💻 <span style="color:#FFD700;">Full-Stack Developer | Tech Explorer | Always Learning</span>  
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=900&color=FFD700&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B+I'm+Ahsan+Imam+Khan;Building+Futuristic+Digital+Experiences;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;AI+%2B+Cloud+%2B+DevOps+Explorer;Learning+Every+Single+Day+%F0%9F%9A%80"/>
 
+<br><br>
 
 <p align="center">
-  <a href="https://mitians.shop/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Portfolio-00D26A?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1A1A1A&color=00D26A&cacheSeconds=3600" 
-         alt="Portfolio" style="border-radius:50px; box-shadow: 0 0 15px #00D26A;">
+  <a href="https://mitians.shop/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-FFD700?style=for-the-badge&logo=firefox-browser&logoColor=black&labelColor=111111"/>
   </a>
-  <a href="https://www.linkedin.com/in/ahsan-imam-khan-9a0443328" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A1A&color=0077B5&cacheSeconds=3600" 
-         alt="LinkedIn" style="border-radius:50px; box-shadow: 0 0 15px #0077B5;">
+
+  <a href="https://www.linkedin.com/in/ahsan-imam-khan-9a0443328" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111"/>
   </a>
-  <a href="https://www.instagram.com/khan_ahsan_8055" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1A1A1A&color=DD2A7B&cacheSeconds=3600" 
-         alt="Instagram" style="border-radius:50px; box-shadow: 0 0 15px #DD2A7B;">
+
+  <a href="https://www.instagram.com/khan_ahsan_8055" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111"/>
   </a>
-  <a href="mailto:ahsanimamkhan06@gmail.com" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A&color=0078D4&cacheSeconds=3600" 
-         alt="Email" style="border-radius:50px; box-shadow: 0 0 15px #0078D4;">
+
+  <a href="mailto:ahsanimamkhan06@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-FFB800?style=for-the-badge&logo=gmail&logoColor=black&labelColor=111111"/>
   </a>
 </p>
 
-</div>
-
----
-
-<div align="center">
-
-## 👨‍💻 About Me  
-
-Hey, I’m **Ahsan Imam Khan**, a developer from 🇮🇳 **India**, who’s passionate about turning ideas into impactful digital solutions.  
-I’m not an expert yet — I’m a **learner** who enjoys experimenting, improving, and discovering new ways to build smarter applications.  
-Currently, I’m focused on **Full Stack Development**, **Cloud**, and **DevOps tools**.  
-Every project I work on teaches me something new — and that’s what keeps me motivated.  
-
-🎓 Computer Science Student  
-💡 Focused on Web Apps, APIs, and Cloud Integration  
-🧠 Mindset: Always Learning | Always Building  
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Currently Working On & Learning  
-
-Learning **Kubernetes**, **AWS**, and real-world cloud deployment workflows.  
-Working on small **Full Stack projects** to strengthen backend and database skills.  
-Exploring **Docker**, **CI/CD pipelines**, and **automation tools**.  
-Understanding **system design and architecture** for scalable applications.  
-Constantly improving code quality, logic, and problem-solving skills.  
-
-</div>
-
----
-
-<div align="center">
-
-## ⚙️ My Tech Stack  
-
-I enjoy using tools that make apps faster, cleaner, and smarter.  
-
-| Frontend | Backend | Databases | Cloud & DevOps | Tools & OS |
-|-----------|----------|------------|----------------|-------------|
-| ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FFD700) ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00BFFF) ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFD700) | ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=00BFFF) ![Express](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=FFD700) ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00BFFF) | ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FFD700) ![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=00BFFF) ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=FFD700) | ![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=FFD700) ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=00BFFF) ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00BFFF) | ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FFD700) ![VS Code](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=00BFFF) ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FFD700) |
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Overview  
-
-![Ahsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahsan6786&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=FFD700)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan6786&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF)
-
-</div>
-
----
-
-<div align="center">
-
-## 🟩 Contribution Graph  
-
-![Ahsan's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahsan6786&bg_color=0D1117&color=00BFFF&line=FFD700&point=ffffff&hide_border=true&area=true&area_color=001F3F)
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 Achievements  
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ahsan6786&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
-
-</div>
-
----
-
-<div align="center">
-
-## 🌱 My Vision  
-
-Keep learning, keep building, and never stop experimenting.  
-I’m not chasing perfection — I’m chasing **progress**.  
-Every line of code, every project, every bug fixed adds up to something bigger.  
-
-</div>
-
----
-
-<div align="center">
-
-⭐ *Made with curiosity and caffeine by [Ahsan6786](https://github.com/Ahsan6786)*  
 <br>
-![Profile Views](https://komarev.com/ghpvc/?username=Ahsan6786&color=00BFFF&style=for-the-badge&label=Profile+Views)
+
+<img src="https://komarev.com/ghpvc/?username=Ahsan6786&style=for-the-badge&color=FFD700&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+# ⚡ ABOUT ME
+
+```yaml
+Name: Ahsan Imam Khan
+Location: India 🇮🇳
+Role: Full Stack Developer
+Specialization:
+  - AI Systems
+  - Cloud Computing
+  - DevOps
+  - Scalable Web Applications
+  - Futuristic UI/UX
+
+Currently Learning:
+  - Kubernetes
+  - Advanced Cloud Infrastructure
+  - AI Integrations
+  - System Design
+
+Mindset:
+  "Learn. Build. Fail. Improve. Repeat."
+```
+
+---
+
+# 🧠 WHO AM I?
+
+```diff
++ I don't just build projects.
++ I build experiences.
+
+# Passionate about:
+! futuristic interfaces
+! scalable architectures
+! AI-powered products
+! futuristic digital ecosystems
+
+@@ Every line of code is a step toward mastery. @@
+```
+
+---
+
+# 🚀 TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,ts,js,nodejs,express,mongodb,postgresql,firebase,tailwind,docker,kubernetes,aws,linux,git,github,figma,python,c,cpp,java&perline=7"/>
+
+</div>
+
+---
+
+# 🌌 CURRENTLY EXPLORING
+
+<div align="center">
+
+| ☁️ Cloud Systems | 🤖 AI Integrations | ⚙️ DevOps |
+|---|---|---|
+| AWS • Scaling • Deployment | LLMs • AI Workflows | Docker • Kubernetes • CI/CD |
+
+</div>
+
+---
+
+# 🏗️ FEATURED PROJECTS
+
+<div align="center">
+
+| 🚀 Project | 💡 Description |
+|---|---|
+| **REVIAL** | AI-powered communication & confidence enhancement platform |
+| **MitraAI** | Emotion-aware intelligent conversational ecosystem |
+| **LTC Portal** | Smart management platform with automation |
+| **AhsanVerse** | Futuristic experimental ecosystem |
+
+</div>
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahsan6786&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsan6786&theme=tokyonight&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700"/>
+
+<br><br>
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahsan6786&theme=react-dark&hide_border=true&bg_color=000000&color=FFD700&line=FFD700&point=FFFFFF"/>
+
+</div>
+
+---
+
+# 🧬 PHILOSOPHY
+
+<div align="center">
+
+> ### “Great products aren’t built by chance.  
+> ### They are built through obsession, iteration, and vision.”
+
+</div>
+
+---
+
+# ⚔️ DEVELOPER MINDSET
+
+```cpp
+while(alive){
+    learn();
+    build();
+    fail();
+    improve();
+    repeat();
+}
+```
+
+---
+
+# 🌍 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://mitians.shop/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+</a>
+
+<a href="mailto:ahsanimamkhan06@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail&logoColor=red"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ahsan-imam-khan-9a0443328">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/khan_ahsan_8055">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:000000,50:FFD700,100:000000"/>
+
+# ⚡ CODE • CREATE • CONQUER ⚡
 
 </div>
