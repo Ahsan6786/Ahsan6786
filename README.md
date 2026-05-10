@@ -1,28 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,25:111111,50:FFD700,75:FFB800,100:000000&text=AHSAN%20IMAM%20KHAN&fontColor=ffffff&fontSize=58&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Future%20Architect&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050505,20:111111,45:FFD700,65:FFB800,100:050505&text=AHSAN%20IMAM%20KHAN&fontColor=ffffff&fontSize=62&fontAlignY=40&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20%20•%20%20AI%20SYSTEMS%20%20•%20%20FUTURE%20TECH&descAlignY=60"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=900&color=FFD700&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B+I'm+Ahsan+Imam+Khan;Building+Futuristic+Digital+Experiences;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;AI+%2B+Cloud+%2B+DevOps+Explorer;Learning+Every+Single+Day+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2200&pause=900&color=FFD700&center=true&vCenter=true&width=1000&lines=Building+Futuristic+Digital+Experiences;AI+%2B+Cloud+%2B+Scalable+Systems;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Creating+Technology+That+Feels+Alive;Obsessed+With+Innovation+%F0%9F%9A%80"/>
 
 <br><br>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-FFD700?style=for-the-badge&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/FOCUS-AI_SYSTEMS-black?style=for-the-badge&logo=openai&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/MINDSET-LEARN_•_BUILD_•_EVOLVE-FFB800?style=for-the-badge&labelColor=111111"/>
+</p>
+
+<br>
+
+<p align="center">
   <a href="https://mitians.shop/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FFD700?style=for-the-badge&logo=firefox-browser&logoColor=black&labelColor=111111"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox-browser&logoColor=FFD700"/>
   </a>
 
   <a href="https://www.linkedin.com/in/ahsan-imam-khan-9a0443328" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
 
   <a href="https://www.instagram.com/khan_ahsan_8055" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111"/>
+    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
 
   <a href="mailto:ahsanimamkhan06@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-FFB800?style=for-the-badge&logo=gmail&logoColor=black&labelColor=111111"/>
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFD700"/>
   </a>
 </p>
 
@@ -34,49 +42,52 @@
 
 ---
 
-# ⚡ ABOUT ME
+# ⚡ SYSTEM PROFILE
 
 ```yaml
 Name: Ahsan Imam Khan
-Location: India 🇮🇳
+Origin: India 🇮🇳
 Role: Full Stack Developer
-Specialization:
-  - AI Systems
-  - Cloud Computing
-  - DevOps
-  - Scalable Web Applications
-  - Futuristic UI/UX
+Mission: Building futuristic systems that blend intelligence, design, and scalability.
 
-Currently Learning:
+Core Domains:
+  - Artificial Intelligence
+  - Cloud Infrastructure
+  - Scalable Web Platforms
+  - DevOps & Automation
+  - Modern UI/UX Engineering
+
+Current Evolution:
   - Kubernetes
-  - Advanced Cloud Infrastructure
   - AI Integrations
-  - System Design
+  - System Architecture
+  - Performance Engineering
 
-Mindset:
-  "Learn. Build. Fail. Improve. Repeat."
+Philosophy:
+  "Technology should not just function.
+   It should feel alive."
 ```
 
 ---
 
-# 🧠 WHO AM I?
+# 🧠 DIGITAL IDENTITY
 
 ```diff
-+ I don't just build projects.
-+ I build experiences.
++ I don't follow trends.
++ I build what inspires me.
 
-# Passionate about:
+# Passion Areas:
+! AI-powered ecosystems
 ! futuristic interfaces
-! scalable architectures
-! AI-powered products
-! futuristic digital ecosystems
+! scalable backend systems
+! digital experiences that feel cinematic
 
-@@ Every line of code is a step toward mastery. @@
+@@ Every project is a prototype of the future. @@
 ```
 
 ---
 
-# 🚀 TECH STACK
+# 🚀 TECH ARSENAL
 
 <div align="center">
 
@@ -90,30 +101,30 @@ Mindset:
 
 <div align="center">
 
-| ☁️ Cloud Systems | 🤖 AI Integrations | ⚙️ DevOps |
+| ☁️ CLOUD SYSTEMS | 🤖 AI ENGINEERING | ⚙️ DEVOPS |
 |---|---|---|
-| AWS • Scaling • Deployment | LLMs • AI Workflows | Docker • Kubernetes • CI/CD |
+| AWS • Scaling • Deployment | LLMs • AI Workflows • Intelligent Systems | Docker • Kubernetes • Automation |
 
 </div>
 
 ---
 
-# 🏗️ FEATURED PROJECTS
+# 🏗️ FUTURE-FOCUSED PROJECTS
 
 <div align="center">
 
-| 🚀 Project | 💡 Description |
+| 🚀 PROJECT | 💡 DESCRIPTION |
 |---|---|
-| **REVIAL** | AI-powered communication & confidence enhancement platform |
-| **MitraAI** | Emotion-aware intelligent conversational ecosystem |
-| **LTC Portal** | Smart management platform with automation |
-| **AhsanVerse** | Futuristic experimental ecosystem |
+| **REVIAL** | AI-powered communication & confidence enhancement ecosystem |
+| **MitraAI** | Emotion-aware intelligent conversational framework |
+| **LTC Portal** | Smart management infrastructure with automation |
+| **AhsanVerse** | Experimental futuristic digital ecosystem |
 
 </div>
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# 📊 GITHUB MATRIX
 
 <div align="center">
 
@@ -129,32 +140,38 @@ Mindset:
 
 ---
 
-# 🧬 PHILOSOPHY
+# 🧬 DEVELOPER PHILOSOPHY
 
 <div align="center">
 
-> ### “Great products aren’t built by chance.  
-> ### They are built through obsession, iteration, and vision.”
+> ### “The future belongs to those who build it.”  
+> ### “Code is not just logic — it’s digital architecture.”
 
 </div>
 
 ---
 
-# ⚔️ DEVELOPER MINDSET
+# ⚔️ EXECUTION LOOP
 
 ```cpp
 while(alive){
-    learn();
+
+    imagine();
+
     build();
+
     fail();
-    improve();
-    repeat();
+
+    optimize();
+
+    evolve();
+
 }
 ```
 
 ---
 
-# 🌍 CONNECT WITH ME
+# 🌍 CONNECT
 
 <div align="center">
 
@@ -163,7 +180,7 @@ while(alive){
 </a>
 
 <a href="mailto:ahsanimamkhan06@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail&logoColor=red"/>
+  <img src="https://img.shields.io/badge/GMAIL-ffffff?style=for-the-badge&logo=gmail&logoColor=red"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ahsan-imam-khan-9a0443328">
@@ -180,8 +197,10 @@ while(alive){
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:000000,50:FFD700,100:000000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:FFD700,100:050505"/>
 
-# ⚡ CODE • CREATE • CONQUER ⚡
+# ⚡ BUILD • EVOLVE • DOMINATE ⚡
+
+### "Creating systems that belong to tomorrow."
 
 </div>
